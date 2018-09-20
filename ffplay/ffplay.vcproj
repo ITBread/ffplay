@@ -197,6 +197,10 @@
 				RelativePath=".\BaseComm.h"
 				>
 			</File>
+			<File
+				RelativePath=".\VCCompat.h"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Resource Files"

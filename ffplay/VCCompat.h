@@ -44,7 +44,7 @@ extern "C" {
 //extern int __sqrt(int i);
 extern AVRational _AVRational(int num, int den);
 extern int compat_sqrt(int i);
-extern double _log(int i);
+//extern double _log(int i);
 
 #define AV_TIME_BASE_Q   _AVRational(1, AV_TIME_BASE)
 #define sqrt compat_sqrt
